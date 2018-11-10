@@ -26,7 +26,7 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'about'
+  - title: 'Favorites'
     url: '#'
     submenu:
       - title: 'Code Highlighter'
