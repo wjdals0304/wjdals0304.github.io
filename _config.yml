@@ -28,6 +28,11 @@ menu:
     type: 'categories'
   - title: 'About'
     url: '#'
+    submenu:
+      - title: 'intro'
+        url: '/intro/test/'
+
+
 
 # Owner/author information
 owner:
