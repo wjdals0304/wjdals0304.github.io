@@ -30,7 +30,7 @@ menu:
     url: '#'
     submenu:
       - title: 'intro'
-        url: '/intro/TEST/'
+        url: '/intro/promise/'
 
 
 
