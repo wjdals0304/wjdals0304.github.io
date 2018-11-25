@@ -35,11 +35,11 @@ menu:
 
 # Owner/author information
 owner:
-  name:김정민(Jung Min Kim)
-  site:http://aronbordin.com
-  avatar:images/avatar.jpg
-  bio: Data engineer 
-  email:wjdals0304@gmail.com
+  name:  김정민(Jung Min Kim)
+  site:  http://aronbordin.com
+  avatar: images/avatar.jpg
+  bio:   Data engineer 
+  email:  wjdals0304@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
