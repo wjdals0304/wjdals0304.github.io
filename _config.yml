@@ -1,5 +1,5 @@
-title:  IronMan
-description:      sofeware engineer
+title:IronMan
+description:sofeware engineer
 
 # put your disqus here
 disqus_shortname: ironman-jm
@@ -20,7 +20,6 @@ url: https://wjdals0304.github.io
 menu:
   - title: 'Home'
     url: '/'
-  
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
@@ -36,11 +35,11 @@ menu:
 
 # Owner/author information
 owner:
-  name:            김정민(Jung Min Kim)
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          wjdals0304@gmail.com
+  name:김정민(Jung Min Kim)
+  site:http://aronbordin.com
+  avatar:images/avatar.jpg
+  bio: Data engineer 
+  email:wjdals0304@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
